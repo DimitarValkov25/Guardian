@@ -1,0 +1,3 @@
+{TYPE}=[M]@{FNAME}=[Mihail]@{LNAME}=[Petrov]@{AGE}=[18]@{SEX}=[M]@{ADDRESS}=[Plovdiv]@{PHONE}=[0885555555]
+{TYPE}=[R]@{FNAME}=[IVA]@{LNAME}=[IVANOVA]@{AGE}=[18]@{SEX}=[F]@{ADDRESS}=[Plovdiv]@{PHONE}=[0885555555]
+{TYPE}=[R]@{FNAME}=[Pesho]@{LNAME}=[Cena]@{AGE}=[43]@{SEX}=[M]@{ADDRESS}=[Boston]@{PHONE}=[66666666]
