@@ -1,12 +1,12 @@
-import java.io.*;
 
 public class Main {
-    public static void main(String[] args) throws FileNotFoundException {
-        ProductionEngine productionEngine = new ProductionEngine(78, 20, "RED");
-        HeatEngine heatEngine = new HeatEngine(78, 20, "RED",98);
-        WrapperEngine wrapperEngine = new WrapperEngine( 78, 20, "RED",98);
 
-    }
+	public Main() {
+		
+	}
+	public static void main(String[] a) {
+		Game game =new Game("Monopoly",90*8,400);
+		
+	}
 
 }
-
